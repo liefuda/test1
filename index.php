@@ -14,6 +14,7 @@ and open the template in the editor.
         // put your code here
         echo 'i am liuzhipeng';
         echo '我是侯海渊';
+        echo '小小鸣还不来？';
         ?>
     </body>
 </html>
