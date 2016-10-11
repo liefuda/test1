@@ -15,6 +15,7 @@ and open the template in the editor.
         echo 'i am liuzhipeng';
         echo '我是侯海渊';
         echo '我是钟鸣';
+        echo 'zhongming shi shabi';
         ?>
     </body>
 </html>
