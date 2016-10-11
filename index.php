@@ -13,6 +13,7 @@ and open the template in the editor.
         <?php
         // put your code here
         echo 'i am liuzhipeng';
+        echo '我是侯海渊';
         ?>
     </body>
 </html>
